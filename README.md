@@ -1,7 +1,7 @@
 # VTXHUB.COM Auto Create Account
 
 **Official Site**
-> https://vtxhub.com/#/app/expose
+> https://vtxhub.com/#/access/signin
 
 **Requirements**
 1. Python 3.x
